@@ -1,0 +1,38 @@
+Projektnachverfolgung;;;;;;;;;;;;;;
+;;Kennzeichnen bei Prozentsatz Über-/Unterschreitung;25 %;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Projekt;Klaus;Zugewiesen an;"Geschätzter
+Anfang";"Geschätztes 
+Ende";Geschätzter Arbeitsaufwand (in Stunden);"Geschätzte Dauer 
+(in Tagen)";Ist-Anfang;Ist-Ende;Kennzeichnungssymbol für Über-/Unterschreitung der Ist-Arbeit (in Stunden);"Ist-Arbeit 
+(in Stunden)";Kennzeichnungssymbol für Über-/Unterschreitung der Ist-Dauer (in Tagen);"Ist-Dauer 
+(in Tagen)";Notizen;
+Projekt 1;Kategorie 1;Hans;9/13/21;11/12/21;210;59T;9/13/21;11/17/21;Kennzeichnung für Über-/Unterschreitung;300; ;64T;;
+Projekt 2;Kategorie 2;Mitarbeiter 1;10/7/21;11/7/21;400;30T;10/7/21;11/10/21; ;390; ;33T;;
+Projekt 3;Kategorie 1;Mitarbeiter 2;8/9/21;10/8/21;500;59T;8/9/21;10/21/21; ;500; ;72T;;
+Projekt 4;Kategorie 2;Mitarbeiter 3;8/19/21;8/29/21;250;10T;8/19/21;9/7/21; ;276;Kennzeichnung für Über-/Unterschreitung;18T;;
+Projekt 5;Kategorie 3;Mitarbeiter 2;8/19/21;9/28/21;300;39T;8/19/21;10/4/21; ;310; ;45T;;
+Projekt 6;Kategorie 4;Mitarbeiter 4;9/18/21;9/28/21;500;10T;9/18/21;10/3/21; ;510;Kennzeichnung für Über-/Unterschreitung;15T;;
+Projekt 7;Kategorie 5;Mitarbeiter 1;10/4/21;10/28/21;750;24T;10/4/21;11/2/21; ;790; ;28T;;
+Projekt 8;Kategorie 2;Mitarbeiter 1;10/9/21;11/17/21;450;38T;10/3/21;11/12/21; ;430; ;39T;;
+Projekt 9;Kategorie 4;Mitarbeiter 1;2/5/16;6/9/16;250;124T;3/5/16;5/5/16; ;200;Kennzeichnung für Über-/Unterschreitung;60T;;
+
+
+;;;;
+;;;;
+
+
+;;;;
+;;;;
+
+
+Einrichtung AA;;;;
+;;;;
+;;;;
+Kategoriename;Mitarbeitername;;;
+Kategorie 1;Mitarbeiter 1;;;
+Kategorie 2;Mitarbeiter 2;;;
+Kategorie 3;Mitarbeiter 3;;;
+Kategorie 4;Mitarbeiter 4;;;
+Kategorie 5;Mitarbeiter 5;;;
+Kategorie 6;Mitarbeiter 6;;;
